@@ -65,7 +65,7 @@ body {
     display:inline-block;
     width:120%;
     margin: auto;
-     padding-left: 60px;
+     padding-left: 50px;
   }
   .btn {
     margin: 25px;
@@ -78,7 +78,7 @@ body {
   .btn-primary{
     width:30%;
     position: relative;
-    left:10%;
+    right:50%;
 
 }
 body {
