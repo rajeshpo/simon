@@ -57,7 +57,7 @@ body {
 @media (max-width: 1000px) {
 
  #level-title {
-   text-align: center;
+   
    font-size: 2rem;
  }
 
@@ -72,10 +72,12 @@ body {
     display: inline-block;
     height: 150px;
     width: 150px;
-    border: 10px solid black;
+    border: 10px solid red;
     border-radius: 20%;
   }
   .btn-primary{
     width:30%;
+    position: relative;
+    left:40%;
 
 }
