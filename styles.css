@@ -56,6 +56,11 @@ body {
 }
 @media (max-width: 1000px) {
 
+  
+  body {
+  text-align: center;
+  background-color: #011F3F;
+}
  #level-title {
    
    font-size: 2rem;
@@ -65,7 +70,7 @@ body {
     display:inline-block;
     width:120%;
     margin: auto;
-     padding-left: 50px;
+     padding-left: 40px;
   }
   .btn {
     margin: 25px;
@@ -78,10 +83,7 @@ body {
   .btn-primary{
     width:30%;
     position: relative;
-    right:50%;
+    right:10%;
 
 }
-body {
-  text-align: center;
-  background-color: #011F3F;
-}}
+ }
